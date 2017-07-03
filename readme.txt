@@ -7,3 +7,5 @@ some line
 some line #2
 some line #3
 some line #4
+
+why we should switch to git?!
