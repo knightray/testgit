@@ -16,3 +16,4 @@ add some feature at here
 
 [feature-br]
 feature blabla
+feature blabla 2
